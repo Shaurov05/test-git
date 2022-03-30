@@ -11,3 +11,6 @@ console.log("update from file 3 new")
 
 console.log("update from file 3 new")
 console.log("update from file 3 new")
+
+console.log("update from file 4 new")
+console.log("update from file 4 new")
